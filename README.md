@@ -17,6 +17,36 @@ Menyimpan perubahan yang sudah di-add ke dalam repository Git.
 Git push origin
 Mengirim (upload) commit dari komputer lokal ke repository online (misalnya GitHub).
 
+Git repository
+Tempat penyimpanan proyek. Isinya semua file + riwayat perubahan.
+
+Git commit
+Menyimpan perubahan yang sudah di buat ke repository.
+
+Git hash
+Kode unik untuk setiap commit. Biasanya bentuknya panjang (misal: a1b2c3d...)
+
+Git checkout
+Berpindah ke commit atau branch tertentu.
+
+Git branch
+Cabang dari project utama untuk ngembangin fitur tanpa ganggu yang lain.
+
+Git merge
+Menggabungkan branch ke branch lain.
+
+Git remote
+Repository yang ada di internet (misalnya GitHub).
+
+Git clone
+Mengambil repository dari remote ke komputer kamu.
+
+Git push
+Mengirim commit dari lokal ke remote.
+
+Git pull
+Mengambil update terbaru dari remote ke lokal.
+
 perintah yang sering di gunakan dalam penggunakan command line
 1. pwd
 2. ls
@@ -27,4 +57,5 @@ perintah yang sering di gunakan dalam penggunakan command line
 7. rm "nama file"
 8. perintah mengedit file
 9. 
-10.aaaaa
+10.
+
